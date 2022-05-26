@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>deploy-to-gcp</finalName>
 	</build>
 
 </project>
